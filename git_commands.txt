@@ -34,3 +34,11 @@ git checkout dev
 2. git branch 命令查看当前分支
 
 分支，强行删掉， git branch -D <name>
+
+远程关联使用：
+
+1. git remote -v 查看远程库信息
+2. 本地新建的分支如果不推送到远程，对其他人不可见
+3. 本地推送分支使用，git push origin branch-name 如果失败，先用git pull 抓取远程的新提交
+4. 本地创建和远程分支的关联，使用 git branch —set-upstream branch-name origin/branch-name
+5. 远程抓取分支，使用 git pull 
