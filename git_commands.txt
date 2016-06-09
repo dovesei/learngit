@@ -4,3 +4,5 @@
 4. git status 查看哪些文件被修改过，
 5. git log 查看提交历史
 6. git reflog 查看命令历史
+
+工作区和暂存区
