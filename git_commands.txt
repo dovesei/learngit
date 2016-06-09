@@ -1,0 +1,6 @@
+1. git add
+2. git commit
+3. git reset —-hard commit_id。 HEAD 指向的版本就是当前版本。 GIT允许在不同的历史版本间穿梭，使用命令 
+4. git status 查看哪些文件被修改过，
+5. git log 查看提交历史
+6. git reflog 查看命令历史
