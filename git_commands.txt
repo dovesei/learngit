@@ -33,5 +33,4 @@ git branch dev
 git checkout dev
 2. git branch 命令查看当前分支
 
-git si a free waof
-
+分支，强行删掉， git branch -D <name>
