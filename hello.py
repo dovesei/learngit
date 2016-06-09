@@ -1,5 +1,2 @@
-this is to test comminitaiotns among team
-
-def hello():
-	print('hello, world')
-	
+'a python program
+print('hello, world!')
