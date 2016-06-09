@@ -7,4 +7,5 @@
 
 工作区和暂存区
 
-管理修改
+管理修改： 必须git add 将更改的文件 添加到 stage区，才能commit。
+第一次修改->git add -> 第二次修改—>git add—>git commit
