@@ -22,6 +22,8 @@ git rm 用于删除一个文件
 关联远程数据库，使用命令： git remote add origin git@github.com:dovesei/learngit.git
 备注：这里使用了 origin->learngit
 
+
+
 关联之后，使用命令 git push -u learngit master 第一次推送 master分支的所有内容
 此后，每次本地提交后，可以使用git push origin master 推送修改
 
@@ -31,5 +33,5 @@ git branch dev
 git checkout dev
 2. git branch 命令查看当前分支
 
-
+git si a free waof
 
